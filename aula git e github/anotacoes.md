@@ -1,4 +1,4 @@
-# Anotações da Aula de Git / GitHub :book:
+# Anotações da Aula de Git / GitHub :open_book:
 
 Link para download do Git: https://git-scm.com/downloads
 
